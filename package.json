@@ -1,0 +1,24 @@
+{
+  "name": "registry-test",
+  "version": "1.0.0",
+  "description": "progetto per testare pipeline e registry github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasalzone/registry-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasalzone/registry-test/issues"
+  },
+  "homepage": "https://github.com/lucasalzone/registry-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
